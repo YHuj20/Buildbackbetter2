@@ -1,0 +1,129 @@
+﻿Primary category,Primary Sector,New Category
+Air cargo & freight facilities,Air,Transport
+"Air, Technical & engineering facilities",Air,Transport
+"Airport runways, taxiways, aprons",Air,Transport
+Rest/elderly persons homes,Care Residential,Remove
+"Churches, places of worship",Civic & Public,Remove
+"Airport runways, taxiways, aprons",Civil Engineering,Transport
+"Bridges, viaducts, underpasses",Civil Engineering,Transport
+Commercial Access & Estate Roads,Civil Engineering,Transport
+Dams & reservoirs,Civil Engineering,Remove
+Decorative Landscaping,Civil Engineering,General / Essential
+"Harbours, docks, marinas",Civil Engineering,General / Essential
+"Land reclamation, major landscaping",Civil Engineering,General / Essential
+"Marine works, coastal protection",Civil Engineering,General / Essential
+Railway construction & maintenance,Civil Engineering,Transport
+River & flood protection works,Civil Engineering,General / Essential
+Road construction & maintenance,Civil Engineering,Transport
+"Tunnelling, mining, quarrying",Civil Engineering,General / Essential
+Urban renewal & environmental improvements,Civil Engineering,General / Essential
+Demolition Works,Civil Engineering,General / Essential
+"Harbours, docks, marinas",Coastal,General / Essential
+Jetty & Wharf construction,Coastal,General / Essential
+Marine demolition & dismantle,Coastal,General / Essential
+Marine technical & engineering facilities,Coastal,General / Essential
+"Marine works, coastal protection",Coastal,General / Essential
+Offshore turbines,Coastal,General / Essential
+Revetment & rock armour,Coastal,General / Essential
+Shipping & ferry terminal,Coastal,General / Essential
+Cash handling offices,Commercial & Retail,Remove
+Commercial Workshops,Commercial & Retail,Remove
+General offices,Commercial & Retail,Remove
+General retailing,Commercial & Retail,Remove
+Retail warehouses,Commercial & Retail,Remove
+Nursery & kindergarten schools,Education,Primary and Nursery
+Private & church schools & colleges,Education,"University, College and Training"
+Special schools,Education,Secondary and Special
+State colleges & universities,Education,"University, College and Training"
+State primary schools,Education,Primary and Nursery
+State secondary schools,Education,Secondary and Special
+Trade colleges & training centres,Education,"University, College and Training"
+Earthwork remodelling,Enabling works,General / Essential
+Enabling works,Enabling works,General / Essential
+Retaining walls & embankments,Enabling works,General / Essential
+"Tunnelling, mining, quarrying",Enabling works,General / Essential
+Road lighting,Generic services,Remove
+Signage,Generic services,Remove
+Site Drainage,Generic services,Remove
+Agricultural buildings,Industrial,Remove
+Light/hi-tec industrial,Industrial,Remove
+Decorative Landscaping,Landscape,General / Essential
+"Land reclamation, major landscaping",Landscape,General / Essential
+Landscape,Landscape,General / Essential
+Urban renewal & environmental improvements,Landscape,General / Essential
+"Caravan parks,camp sites",Leisure,Remove
+"Health farms, hydros",Medical & Healthcare,Remove
+"Hospices, nursing & psychiatric homes",Medical & Healthcare,Local healthcare
+Kennels & Catteries,Medical & Healthcare,Remove
+Mortuaries,Medical & Healthcare,Remove
+Private hospitals,Medical & Healthcare,Hospitals
+Public hospitals,Medical & Healthcare,Hospitals
+Secure hospitals,Medical & Healthcare,Hospitals
+"Surgeries, health & medical centres",Medical & Healthcare,Local healthcare
+Veterinary surgeries & hospitals,Medical & Healthcare,Remove
+"Broadcasting studios &, facilities",Power & Utility,Utility
+Electricity sub station,Power & Utility,Remove
+Energy from waste,Power & Utility,Remove
+Hydroelectric power,Power & Utility,Remove
+Nuclear energy,Power & Utility,Remove
+Off shore power supply,Power & Utility,Remove
+On shore turbines,Power & Utility,Remove
+Pipeline,Power & Utility,Remove
+Power generation & distribution,Power & Utility,Remove
+Power supply pylons and lines,Power & Utility,Remove
+Telecommunications & postal facilities,Power & Utility,Utility
+Utility connections,Power & Utility,Utility
+Utility pipeline,Power & Utility,Utility
+Rail,Rail,Transport
+Rail tracks/lines,Rail,Transport
+"Rail, technical & engineering facilities",Rail,Transport
+Railway cargo & freight facilities,Rail,Transport
+Railway construction & maintenance,Rail,Transport
+Housing association dwellings,Residential,Remove
+Private development,Residential,Remove
+Single house,Residential,Remove
+278works,Road,Transport
+"Bridges, viaducts, underpasses",Road,Transport
+Commercial Access & Estate Roads,Road,Transport
+Cycle route & pavements,Road,Transport
+Multi-storey & underground car parks,Road,Transport
+"Petrol stations, fuelling facilities",Road,Transport
+Public transport passenger facilities,Road,Transport
+Road construction & maintenance,Road,Transport
+Road Drainage,Road,Transport
+Surface car parks,Road,Transport
+Traffic management,Road,Transport
+"Vehicle show rooms, servicing",Road,Remove
+Riding schools & stables,Sports,Remove
+EIA & Feasibility studies,Survey,Remove
+Site investigation,Survey,Remove
+"Air, Technical & engineering facilities",Transport,Transport
+Cargo & freight facilities,Transport,Transport
+Electric vehicle charging points,Transport,Transport
+Marine technical & engineering facilities,Transport,Transport
+Multistorey & underground car parks,Transport,Transport
+"Petrol stations, fuelling facilities",Transport,Transport
+Public transport passenger facilities,Transport,Transport
+"Rail, technical & engineering facilities",Transport,Transport
+Surface car parks,Transport,Transport
+"Vehicle show rooms, servicing",Transport,Remove
+"Broadcasting studios &, facilities",Utilities,Utility
+Power generation & distribution,Utilities,Remove
+"Sewerage, drainage, waste disposal",Utilities,Utility
+Telecommunications & postal facilities,Utilities,Utility
+"Water treatment, storage, distribution",Utilities,Utility
+Demolition & arising recycling,Waste,Remove
+Landfill site,Waste,Remove
+Site remediation  &  Geotechnical services,Waste,Remove
+Waste,Waste,Utility
+Waste recycling,Waste,Utility
+Attenuation tanking,Water,Remove
+Dams & reservoirs,Water,Remove
+Fresh water works & canals,Water,Remove
+Hydroelectric power,Water,Remove
+Pipeline,Water,Remove
+Pumping station,Water,Remove
+River & flood protection works,Water,Remove
+"Sewerage, drainage, waste disposal",Water,Remove
+Water,Water,Remove
+"Water treatment, storage, distribution",Water,Remove
